@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "859888444421",
+    "firebase_url": "https://blogiee.firebaseio.com",
+    "project_id": "blogiee",
+    "storage_bucket": "blogiee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859888444421:android:2fffc292014c918901286c",
+        "android_client_info": {
+          "package_name": "com.mysterio.blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859888444421-td3len6kvk8d1u4aqgpc86u6o7da3cus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpIii-eBXQQA7LpYxrXLDjWVpmqswXZK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859888444421-td3len6kvk8d1u4aqgpc86u6o7da3cus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
